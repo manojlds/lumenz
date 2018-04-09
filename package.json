@@ -1,0 +1,12 @@
+{
+  "name": "lumenz",
+  "version": "0.1.0",
+  "description": "Lumenz",
+  "main": "index.js",
+  "repository": "https://github.com/manojlds/lumenz.git",
+  "author": "manojlds <manojlds@gmail.com> (https://stacktoheap.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
